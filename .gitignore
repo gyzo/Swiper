@@ -4,3 +4,5 @@ build
 *.log
 
 .versions
+.idea/
+Swiper.iml
